@@ -1,3 +1,19 @@
+# This is a simple react project which helps to track the expense
+
+To get started with, you will first have to create an empty folder inside which you want to keep the files
+Open terminal on that folder and follow the below steps
+Step 1: npx create-react-app project-name (Replace project-name with the name you want to give to your project)
+Step 2: cd to that folder. 
+Step 3: code .  (Use this command to open the folder in visual studio code)
+
+Get rid of unwanted files from the project.
+Delete index.css, logo.svg, reportWebVitals.js, setupTests.js as we do not require these files.
+
+Remove all the content from App.css and empty the file.
+Remove all the import statements of the files which had deleted above from all of the rest of the files present
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
